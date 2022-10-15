@@ -1,0 +1,9 @@
+numpy
+tensorflow
+tensorflow-datasets
+tensorflow-addons
+git+https://github.com/tensorflow/examples.git
+pillow
+opencv-python
+matplotlib
+imageio
